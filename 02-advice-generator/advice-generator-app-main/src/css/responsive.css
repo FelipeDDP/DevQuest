@@ -1,0 +1,13 @@
+@media(max-width: 425px){
+    .id-and-advice{
+        /* padding-inline: 50px; */
+        width: 386px;
+    }
+    .id-and-advice .advice{
+        font-size: 20px;
+        /* padding: 26px; */
+    }
+    .container {
+        margin: 20px;
+    }
+}
